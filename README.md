@@ -63,7 +63,11 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
+# Deployed Application Link
+https://nitinvemuri.github.io/Challenge1/
 
+# Github Repository
+https://github.com/nitinvemuri/Challenge1
 
 # Changes in HTML and CSS files
 ```
@@ -128,3 +132,6 @@ Combined #benefit-lead h3, benefit-brand h3, and benefit-cost h3 into one CSS co
 Changed footer padding to 20px
 
 Changed footer h2 font size to 0
+
+'''
+
