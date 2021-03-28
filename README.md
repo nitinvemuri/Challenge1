@@ -4,7 +4,8 @@ BootCamp Homework - 01 HTML CSS Git: Code Refactor
 # HTML-CSS-GIT-CHALLENGE
 To refactor an existing webpage in order to make it accessible, so it is optimized for search engines.
 
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/80983324/112720217-45bce280-8eba-11eb-9c4d-e304b223f251.png)
+![01-html-css-git-homework-demo]![horiseon 1](https://user-images.githubusercontent.com/80983324/112743582-5ff3d080-8f4d-11eb-8af1-b0a3e9ade075.jpg)
+(https:{//user-images.githubusercontent.com/80983324/112720217-45bce280-8eba-11eb-9c4d-e304b223f251.png)
 
 # Acceptance Criteria
 GIVEN a webpage meets accessibility standards
@@ -68,6 +69,12 @@ https://nitinvemuri.github.io/Challenge1/
 
 # Github Repository
 https://github.com/nitinvemuri/Challenge1
+
+# Website Screenshots
+![horiseon 1](https://user-images.githubusercontent.com/80983324/112743595-726e0a00-8f4d-11eb-9e11-6cc832f7cd00.jpg)
+![horiseon 2](https://user-images.githubusercontent.com/80983324/112743599-7ac64500-8f4d-11eb-9255-6aab1791b473.png)
+![horiseon 3](https://user-images.githubusercontent.com/80983324/112743600-7d289f00-8f4d-11eb-8cda-50664cad367a.png)
+
 
 # Changes in HTML and CSS files
 ```
